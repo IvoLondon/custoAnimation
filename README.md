@@ -1,7 +1,7 @@
 # custoAnimation
 Simple function to add animation classes to elements. For more projects, please check out my website on http://www.ivelin.me
 
-At the bottom of custoAnimation.js, add the elements you want to have animation classes on. 
+At the bottom of custoAnimation.js, init the elements you wish to get animation classes added. 
 
 addCustomAnimation('target', 'attribute', 'class', 'gap');
 
