@@ -22,3 +22,4 @@ addCustomAnimation('elAnimate', 'id', 'visible', '300');
 gap : number in pixels. Default is 300; This adds a gap between the bottom of the view port and the start of the animation. By default, the animation will start after 300 extra pixels.
 
 addCustomAnimation('animateElements', 'class', 'visible', '100');
+---------------------------------------------------------------------------------------------
